@@ -2825,15 +2825,15 @@ input, select, textarea {
 
 			.features li .image {
 				display: inline-block;
-				margin-left: 4em;
+/*				margin-left: 4em;*/
 				padding: 0.65em;
-				border-radius: 100%;
-				border: solid 1px;
+/*				border-radius: 80%;*/
+/*				border: solid 1px;*/
 			}
 
 				.features li .image img {
 					display: block;
-					border-radius: 100%;
+/*					border-radius: 80%;*/
 					width: 16em;
 				}
 
@@ -3138,7 +3138,7 @@ input, select, textarea {
 				#header.alt .logo img {
 					display: block;
 					margin: 0 auto;
-					max-width: 300px;
+					max-width: 200px;
 					width: 50%;
 				}
 
